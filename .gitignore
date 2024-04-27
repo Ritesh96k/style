@@ -1,0 +1,4 @@
+.DS_Store
+secrects.txt
+#use # to comment
+# when u usr *.txt all the text files will be ignored
